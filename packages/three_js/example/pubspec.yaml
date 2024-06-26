@@ -14,38 +14,38 @@ dependencies:
     path: ../../three_js
   three_js_helpers:
     git:
-      url: git@github.com:Knightro63/three_js.git
-      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      url: git@github.com:obiwanzenobi/three_js.git
+      ref: 72bfd120e883976381ac12566f55c979afe0b4ed
       path: packages/three_js_helpers
   three_js_geometry:
     git:
-      url: git@github.com:Knightro63/three_js.git
-      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      url: git@github.com:obiwanzenobi/three_js.git
+      ref: 72bfd120e883976381ac12566f55c979afe0b4ed
       path: packages/three_js_geometry
   three_js_transform_controls:
     git:
-      url: git@github.com:Knightro63/three_js.git
-      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      url: git@github.com:obiwanzenobi/three_js.git
+      ref: 72bfd120e883976381ac12566f55c979afe0b4ed
       path: packages/three_js_transform_controls
   three_js_svg:
     git:
-      url: git@github.com:Knightro63/three_js.git
-      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      url: git@github.com:obiwanzenobi/three_js.git
+      ref: 72bfd120e883976381ac12566f55c979afe0b4ed
       path: packages/three_js_svg
   three_js_objects:
     git:
-      url: git@github.com:Knightro63/three_js.git
-      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      url: git@github.com:obiwanzenobi/three_js.git
+      ref: 72bfd120e883976381ac12566f55c979afe0b4ed
       path: packages/three_js_objects
   three_js_tjs_loader:
     git:
-      url: git@github.com:Knightro63/three_js.git
-      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      url: git@github.com:obiwanzenobi/three_js.git
+      ref: 72bfd120e883976381ac12566f55c979afe0b4ed
       path: packages/three_js_tjs_loader
   three_js_postprocessing:
     git:
-      url: git@github.com:Knightro63/three_js.git
-      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      url: git@github.com:obiwanzenobi/three_js.git
+      ref: 72bfd120e883976381ac12566f55c979afe0b4ed
       path: packages/three_js_postprocessing
 
 dev_dependencies:
