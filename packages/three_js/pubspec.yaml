@@ -11,23 +11,50 @@ dependencies:
   flutter:
     sdk: flutter
   three_js_math:
-    path: ../three_js_math
+    git:
+      url: git@github.com:Knightro63/three_js.git
+      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      path: packages/three_js_math
   three_js_advanced_loaders:
-    path: ../three_js_advanced_loaders
+    git:
+      url: git@github.com:Knightro63/three_js.git
+      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      path: packages/three_js_advanced_loaders
   three_js_animations:
-    path: ../three_js_animations
+    git:
+      url: git@github.com:Knightro63/three_js.git
+      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      path: packages/three_js_animations
   three_js_controls:
-    path: ../three_js_controls
+    git:
+      url: git@github.com:Knightro63/three_js.git
+      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      path: packages/three_js_controls
   three_js_core:
-    path: ../three_js_core
+    git:
+      url: git@github.com:Knightro63/three_js.git
+      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      path: packages/three_js_core
   three_js_core_loaders:
-    path: ../three_js_core_loaders
+    git:
+      url: git@github.com:Knightro63/three_js.git
+      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      path: packages/three_js_core_loaders
   three_js_curves:
-    path: ../three_js_curves
+    git:
+      url: git@github.com:Knightro63/three_js.git
+      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      path: packages/three_js_curves
   three_js_simple_loaders:
-    path: ../three_js_simple_loaders
+    git:
+      url: git@github.com:Knightro63/three_js.git
+      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      path: packages/three_js_simple_loaders
   three_js_text:
-    path: ../three_js_text
+    git:
+      url: git@github.com:Knightro63/three_js.git
+      ref: 55ec04bfaead31bee1bee7fc50635c57bb2c4773
+      path: packages/three_js_text
 
 dev_dependencies:
   flutter_test:

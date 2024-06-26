@@ -13,7 +13,9 @@ dependencies:
   vector_math: ^2.1.4
   uuid: ^4.4.0
   flutter_angle:
-    path: ../../../flutter_angle
+    git:
+      url: https://github.com/obiwanzenobi/flutter_angle.git
+      ref: a00d08aabc228690128f28f9efe8847500f24209
 
 dev_dependencies:
   flutter_test:
